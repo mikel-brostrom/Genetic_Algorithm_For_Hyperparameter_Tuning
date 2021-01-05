@@ -25,6 +25,6 @@ searching an optimal combination of the following values: weight decay, beta1 (A
 
 ## Results
 
-Evolution is very expensive and time consuming, as the base scenario is trained hundreds of times, possibly requiring hundreds or thousands of GPU hours
+Evolution is very expensive and time consuming, as the base scenario is trained hundreds of times, possibly requiring hundreds or thousands of GPU hours. In this case the models were just trained for 5 epochs
 
 ![](hyper_p_evolved.png)
