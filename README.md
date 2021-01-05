@@ -1,6 +1,6 @@
 # Genetic_Algorithm_For_Hyperparameter_Tuning
 
-This code in this repo is an adaptation of Ultralytic's Yolo5 Genetic Algorithm (roughly explained here: https://github.com/ultralytics/yolov5/issues/607) for a simple CNN trained on MNIST. 
+The code in this repo is an adaptation of Ultralytic's Yolo5 Genetic Algorithm (roughly explained here: https://github.com/ultralytics/yolov5/issues/607) for a simple CNN trained on MNIST. 
 
 ## Introduction
 
