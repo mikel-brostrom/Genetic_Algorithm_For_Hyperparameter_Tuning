@@ -27,4 +27,4 @@ searching an optimal combination of the following values: weight decay, beta1 (A
 
 Evolution is very expensive and time consuming, as the base scenario is trained hundreds of times, possibly requiring hundreds or thousands of GPU hours
 
-![](evolved.png)
+![](hyper_p_evolved.png)
