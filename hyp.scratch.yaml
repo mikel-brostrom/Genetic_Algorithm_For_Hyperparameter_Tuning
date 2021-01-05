@@ -1,0 +1,10 @@
+# Hyperparameters for MNIST training from scratch
+
+
+weight_decay: 0.01  # Weight decay
+beta1: 0.5  # Adam parameter
+beta2: 0.999  # Adam parameter
+lr: 0.01  # Initial learning rate
+gamma: 0.5  # How much to decay learning rate
+momentum: 0.9
+
